@@ -56,7 +56,10 @@ export default function Home() {
           place with ease
         </h1>
         <div className="text-gray-400 text-xs sm:text-sm">
-          Sahand Estate is the best place to find your next perfect place to
+          This site is a real estate application functionality test site. There
+          are no properties for sale, nor are there any real prices.
+          <br />
+          stgHellis Estate is the best place to find your next perfect place to
           live.
           <br />
           We have a wide range of properties for you to choose from.
